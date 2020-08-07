@@ -10,3 +10,4 @@
 .idea/
 
 # Intellij compilation target
+out/
