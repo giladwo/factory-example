@@ -1,0 +1,12 @@
+# Vi[m] backup files
+*~
+*.swp
+
+# JVM bytecode
+*.class
+
+# IntelliJ project configuration
+*.iml
+.idea/
+
+# Intellij compilation target
